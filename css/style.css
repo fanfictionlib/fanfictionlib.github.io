@@ -93,7 +93,7 @@ dfn {
 }
 
 h1 {
-  font-size: 2em;
+  font-size: 4em;
   margin: 0.67em 0;
 }
 
@@ -149,7 +149,7 @@ kbd,
 pre,
 samp {
   font-family: monospace,monospace;
-  font-size: 1em;
+  font-size: 2em;
 }
 
 button,
@@ -260,7 +260,7 @@ th {
 }
 
 html {
-  font-size: 10px;
+  font-size: 20px;
   -webkit-tap-highlight-color: transparent;
 }
 
@@ -455,32 +455,32 @@ h6 .small,
 
 h1,
 .h1 {
-  font-size: 30px;
+  font-size: 40px;
 }
 
 h2,
 .h2 {
-  font-size: 26px;
+  font-size: 35px;
 }
 
 h3,
 .h3 {
-  font-size: 22px;
+  font-size: 30px;
 }
 
 h4,
 .h4 {
-  font-size: 18px;
+  font-size: 25px;
 }
 
 h5,
 .h5 {
-  font-size: 14px;
+  font-size: 20px;
 }
 
 h6,
 .h6 {
-  font-size: 12px;
+  font-size: 18px;
 }
 
 p {
@@ -1106,8 +1106,8 @@ address {
   background-image: none;
   border: 1px solid transparent;
   white-space: nowrap;
-  padding: 6px 12px;
-  font-size: 14px;
+  padding: 8px 18px;
+  font-size: 20px;
   line-height: 1.57143;
   border-radius: 4px;
   -webkit-user-select: none;
@@ -3256,7 +3256,7 @@ body {
 body {
   padding-right: 0 !important;
   font-family: "PingHei","PingFang SC",Helvetica Neue,"Work Sans","Hiragino Sans GB","Microsoft YaHei",SimSun,sans-serif;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 1.57143;
   color: #333333;
   background-color: #fff;
@@ -5742,7 +5742,7 @@ body.no-sidebar .sidebar {
 }
 
 .main-nav > li .menu-title {
-  margin-left: 15px;
+  margin-left: 22px;
 }
 
 .main-nav > .active a,
@@ -5773,7 +5773,7 @@ body.no-sidebar .sidebar {
 }
 
 #name {
-  font-size: 18px;
+  font-size: 25px;
   margin-top: 10px;
   margin-bottom: 0;
 }
@@ -6439,7 +6439,7 @@ body.no-sidebar .sidebar {
 }
 
 .article-list .article-title {
-  font-size: 18px;
+  font-size: 22px;
 }
 
 .article-toc .toc-title {
