@@ -6122,6 +6122,7 @@ body.no-sidebar .sidebar {
 }
 
 .bar .bar-inner {
+  background-color: #ffffffd5;
   position: relative;
   z-index: 9;
 }
